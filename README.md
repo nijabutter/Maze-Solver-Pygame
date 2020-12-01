@@ -1,4 +1,4 @@
-# Maze Solver
+# Maze Generator
 
 Generates mazes using randomized depth-first and solves using A* pathfinding.
 
